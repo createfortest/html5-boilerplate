@@ -5,4 +5,8 @@ node_modules
 dist
 .cache
 
+# add file
 /credential.py
+
+# add folder
+text/*txt
